@@ -15,7 +15,7 @@ namespace ChrisWebsite.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Her kan man beskrive forskellige ting, ændres nok i fremtiden til noget mere specifikt.";
 
             return View();
         }
